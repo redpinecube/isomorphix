@@ -18,6 +18,8 @@ Isomorphix is a project created for the Princeton University VNC Matching Challe
 `preprocess` - Contains all code used for preprocessing. 
 
 `literature` - Literature used for this project. 
+
+`data` - Contains all data used for the project as well as the code used to download it.
 ## Reproducibility
 For reproducibility purposes the Anaconda package manager is reccomended. 
 Paste the following in your terminal to install dependencies. 
