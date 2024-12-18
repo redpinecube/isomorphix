@@ -1,4 +1,8 @@
 # Isomorphix
+
+<img src="https://github.com/user-attachments/assets/dfe4bb8e-b1cd-40c5-8a35-56161c893f3b" alt="brain" width="150" />
+
+
 Isomorphix is a project created for the Princeton University VNC Matching Challenge which aims to create an optimal mapping alignment score between the connectomes of male and female drosophila. 
 ## File Structure 
 `paper` - Paper summarizing the results of this project.
