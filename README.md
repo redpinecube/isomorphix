@@ -26,6 +26,3 @@ Paste the following in your terminal to install dependencies.
 conda env create -f environment.yml
 conda activate myenv
 ```
-
-## Disclaimer 
-No large language models were used for this project. 
