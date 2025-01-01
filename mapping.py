@@ -1,9 +1,16 @@
 import pandas as pd
 import networkx as nx
 
-def create_nth_graph(node, n, df):
+def max_neighbour_depth(node, data):
+    """
+    returns the maximum possible neighbour depth of the specified node. 
+    """
+    
+
+def create_nth_graph(node, n, ):
     """
     for the specified node, create a graph up to its nth neighbour expansion.
+    given a numpy array, get the subgraph. 
     """
     total_nodes = {node}
     current_level = {node}
