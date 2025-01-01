@@ -24,5 +24,5 @@ For reproducibility purposes the Anaconda package manager is reccomended.
 Paste the following in your terminal to install dependencies. 
 ```
 conda env create -f environment.yml
-conda activate myenv
+conda activate iso
 ```
