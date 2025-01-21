@@ -1,9 +1,7 @@
-# Isomorphix
+# Ventral Nerve Cord Matching of Male and Female Drosophila.
 
 <img src="https://github.com/user-attachments/assets/dfe4bb8e-b1cd-40c5-8a35-56161c893f3b" alt="brain" width="120" />
 
-
-Isomorphix is a project which aims to create an optimal mapping between the connectomes of male and female drosophila. 
 ## File Structure 
 `paper` - Paper summarizing the results of this project.
 
