@@ -1,4 +1,4 @@
-# Ventral Nerve Cord Matching of Male and Female Drosophila.
+# Ventral Nerve Cord Matching of Drosophilia by Sex
 
 <img src="https://github.com/user-attachments/assets/dfe4bb8e-b1cd-40c5-8a35-56161c893f3b" alt="brain" width="120" />
 
